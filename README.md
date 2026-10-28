@@ -10,4 +10,5 @@
 ### Опис та класифікація
 1. [Project-brief](project-brief.md)
 2. [Project-classification](project-classification.md)
-2. [Project-lifecycles](project-lifecycles.md)
+3. [Project-lifecycles](project-lifecycles.md)
+4. [Jira-setup](jira-setup.md)
